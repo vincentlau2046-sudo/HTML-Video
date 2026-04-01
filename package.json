@@ -1,0 +1,17 @@
+{
+  "name": "html-video",
+  "version": "1.0.0",
+  "description": "Convert technical documentation and HTML slides to professional presentation videos",
+  "main": "html_video.py",
+  "scripts": {
+    "test": "./test_html_video.sh"
+  },
+  "keywords": ["video", "presentation", "html", "tts", "skills"],
+  "author": "Vincent",
+  "license": "MIT",
+  "clawhub": {
+    "skill": true,
+    "category": "media",
+    "tags": ["video", "presentation", "html", "tts"]
+  }
+}
